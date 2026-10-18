@@ -1,0 +1,10 @@
+carajo,64,Dificil
+,33,Fácil
+,21,Dificil
+,20,PVP Fácil
+holiwis,19,Fácil
+,18,Fácil
+,18,Dificil
+lelo,12,PVP Fácil
+hill,11,PVP Dificil
+chinga,6,Jugador vs Jugador
